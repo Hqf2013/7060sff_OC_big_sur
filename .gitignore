@@ -1,0 +1,5 @@
+$RECYCLE.BIN
+.fseventsd
+*.DS_Store
+._*
+config.plist
